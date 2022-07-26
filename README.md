@@ -3,8 +3,11 @@
 
 Preparation
 ------------------------------------------------
+--Please visit https://www.mpa.ethz.ch/ to download real-time calculus toobox
 --Read rtc/install.txt
+
 	cd $MATLAB$/toolbox/rtc
+	
 	run rtc/rtc_install.m
 
 
@@ -25,7 +28,3 @@ In data folder, there are the task data files that we used in the article. You c
 USDPLUS.m(UT-SD+), Exact.m(Exact), and GA/GA.m(GA), and jobAssignOnline.m.
 
 And you can use CreateTask.m or generate_task.mlx to generate your own data. Use them in the test code or the experiment code
-
-
-
-	 
