@@ -16,7 +16,7 @@ Run code
 ------------------------------------------------------------------------------------------------------------
 1. Test (Simple to use)
 
-you can use USDPLUS_test.m, Exact_test.m, GA/testbyGA.m to get a scheduling result for a test quickly.
+You can use USDPLUS_test.m, Exact_test.m, GA/testbyGA.m to get a scheduling result for a test quickly.
 These files correspond to the algorithms in the article：UT-SD+， Exact， GA.
 Because the codes of UT-SD and UT-SD+ are very similar, we only present the test codes of UT-SD+.
 In these files, we define a set of random small task data for quick execution.
