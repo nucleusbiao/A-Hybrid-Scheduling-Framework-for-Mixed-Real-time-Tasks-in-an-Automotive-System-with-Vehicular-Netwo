@@ -29,3 +29,18 @@ In data folder, there are the task data files that we used in the article. You c
 USDPLUS.m(UT-SD+), Exact.m(Exact), and GA/GA.m(GA), and jobAssignOnline.m.
 
 And you can use CreateTask.m or generate_task.mlx to generate your own data. Use them in the test code or the experiment code
+
+If you use the code, please cite
+
+@article{hu2022hybrid,
+
+  title={A Hybrid Scheduling Framework for Mixed Real-Time Tasks in an Automotive System With Vehicular Network},
+  
+  author={Hu, Biao and Shi, Yinbin and Cao, Zhengcai and Zhou, MengChu},
+  
+  journal={IEEE Transactions on Cloud Computing},
+  
+  year={2022},
+  
+  publisher={IEEE}
+}
